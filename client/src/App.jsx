@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className='row'>
       <div className="col-lg-12"  >
-        <h1 className='text-red-500'>App</h1>
+        <h1 className='text-red-500'>This App</h1>
       </div>
     </div>
     
